@@ -160,13 +160,13 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/blinkfox
-  email: 1181062873@qq.com
-  facebook: # https://www.facebook.com/xxx
-  twitter: # https://twitter.com/xxx
-  qq: 1181062873
-  weibo: # https://weibo.com/xxx
-  zhihu: # https://www.zhihu.com/xxx
+  github:  https://github.com/jxch
+  email: qianbuhan@proton.me
+  facebook: https://www.facebook.com/profile.php?id=100073531534496
+  twitter: https://twitter.com/chengbushang
+  qq: 2455930800
+  weibo: https://weibo.com/u/7558713016
+  zhihu: https://www.zhihu.com/people/qianbuhan
   rss: true # true、false
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
