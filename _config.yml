@@ -647,7 +647,7 @@ instantpage:
 banner:
   enable: true
   # 开启随机 featureimages 图片
-  random: true
+  random: false
 
 # 中文繁简转换开关
 # 显示在底部 footer 栏
@@ -730,7 +730,7 @@ bbtime:
 # {% endmermaid %}
 # mermaid chart。 依赖hexo-tag-mermaid
 mermaid: ## mermaid url https://github.com/knsv/mermaid
-  enable: false  # default false
+  enable: true  # default false
   version: "latest" # default v7.1.2
   options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
     #startOnload: true  // default true
